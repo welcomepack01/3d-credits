@@ -2,7 +2,7 @@
 
 Automated credit collection for Creative Commons 3D models used in our video productions.
 
-- **Live page**: https://YOUR_USERNAME.github.io/THIS_REPO/
+- **Live page**: https://welcomepack01.github.io/3d-credits/
 - Credits are added automatically via Chrome extension when downloading from Sketchfab.
 
 ## How it works
